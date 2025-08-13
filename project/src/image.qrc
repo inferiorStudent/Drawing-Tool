@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/normal/arrow.svg</file>
+        <file>image/normal/circle.svg</file>
+        <file>image/normal/edit.svg</file>
+        <file>image/normal/line.svg</file>
+        <file>image/normal/rect.svg</file>
+        <file>image/normal/text.svg</file>
+        <file>image/hover/arrow.svg</file>
+        <file>image/hover/circle.svg</file>
+        <file>image/hover/edit.svg</file>
+        <file>image/hover/line.svg</file>
+        <file>image/hover/rect.svg</file>
+        <file>image/hover/text.svg</file>
+        <file>image/icons8-ruler-64.png</file>
+        <file>image/selected/arrow.svg</file>
+        <file>image/selected/circle.svg</file>
+        <file>image/selected/edit.svg</file>
+        <file>image/selected/line.svg</file>
+        <file>image/selected/rect.svg</file>
+        <file>image/selected/text.svg</file>
+        <file>image/add.svg</file>
+        <file>image/close.svg</file>
+        <file>image/hover/hexagon.svg</file>
+        <file>image/hover/pentagon.svg</file>
+        <file>image/hover/triangle.svg</file>
+        <file>image/normal/hexagon.svg</file>
+        <file>image/normal/pentagon.svg</file>
+        <file>image/normal/triangle.svg</file>
+        <file>image/selected/hexagon.svg</file>
+        <file>image/selected/pentagon.svg</file>
+        <file>image/selected/triangle.svg</file>
+    </qresource>
+</RCC>
