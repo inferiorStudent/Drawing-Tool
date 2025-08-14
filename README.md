@@ -5,4 +5,4 @@ developed with C++ Qt5
 
 ## 1 Outline
 
-![](.\pictures\project-construction.svg)
+![](./pictures/project-construction.svg)
